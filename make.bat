@@ -1,0 +1,1 @@
+ocra --windows --gem-full --add-all-core --output quiz.exe %1
